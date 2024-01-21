@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/artem/Desktop/practice/src/test/mlruns/0/fc6cb2fc171b4e2fb2ea429001c31b37/artifacts
+end_time: 1688121923645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc6cb2fc171b4e2fb2ea429001c31b37
+run_name: xgboost S10 r3 2 2
+run_uuid: fc6cb2fc171b4e2fb2ea429001c31b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688121914216
+status: 4
+tags: []
+user_id: artem
